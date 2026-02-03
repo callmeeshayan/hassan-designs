@@ -1,0 +1,31 @@
+{
+  "name": "hassan-designs",
+  "version": "2.0.0",
+  "description": "Hassan Designs - Professional thumbnail redesign showcase with interactive before/after slider",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "npx http-server -p 8000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "thumbnail",
+    "youtube",
+    "design",
+    "ctr",
+    "interactive",
+    "before-after",
+    "slider"
+  ],
+  "author": "Shayan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shayan-Codes-dev/hassan-designs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shayan-Codes-dev/hassan-designs/issues"
+  },
+  "homepage": "https://github.com/Shayan-Codes-dev/hassan-designs#readme",
+  "devDependencies": {}
+}
